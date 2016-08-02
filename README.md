@@ -1,0 +1,1 @@
+# cordova-gpg-player-stats
